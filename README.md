@@ -172,14 +172,14 @@ recent: DIVE 2026 해커톤 · 부산교통공사 × 짐캐리 트랙 참가
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=westjun1021&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=westjun1021&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="100%" src="https://raw.githubusercontent.com/westjun1021/westjun1021/main/profile-summary-card-output/tokyonight/0-profile-details.svg" />
+</p>
+<p align="center">
+  <img width="49%" src="https://raw.githubusercontent.com/westjun1021/westjun1021/main/profile-summary-card-output/tokyonight/3-stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/westjun1021/westjun1021/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=westjun1021&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=westjun1021&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
